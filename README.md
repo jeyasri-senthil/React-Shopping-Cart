@@ -1,4 +1,4 @@
-### **React Shopping Cart**
+### **REACT SHOPPING CART**
 
 ***Demo Video***: *https://drive.google.com/file/d/1I-ZDWXG1zjuoph0mdTfWp7Pbr7G0041i/view?usp=sharing*
 
